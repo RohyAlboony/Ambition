@@ -36,7 +36,7 @@ class _HomeLayoutState extends State<HomeLayout> {
   ];
 
   List<String> titles = [
-    "New Task",
+    "New Tasks",
     "Done Tasks",
     "Archived Tasks",
   ];
